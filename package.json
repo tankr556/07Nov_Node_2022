@@ -1,0 +1,21 @@
+{
+  "name": "07Nov_Node_2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-countries": "^2.0.2",
+    "axios": "^1.2.0",
+    "country-state-city": "^3.1.2",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.13.0",
+    "yargs": "^17.6.2"
+  },
+  "description": ""
+}

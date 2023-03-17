@@ -1,0 +1,12 @@
+[
+    {
+        "ProductID": 101,
+        "ProductName": "Shirt",
+        "Productrupees": 1000
+    },
+    {
+        "ProductID": 102,
+        "ProductName": "Jeans",
+        "Productrupees": 200
+    }
+]
